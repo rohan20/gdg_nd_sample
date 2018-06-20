@@ -1,8 +1,5 @@
 # flutter_gdg_nd_sample
 
-Sample flutter project
+Sample flutter project for GDG New Delhi's Flutter Extended registration
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Default screen](/flutter_screenshot.png?raw=true "Default screen")
